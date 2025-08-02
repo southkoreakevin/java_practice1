@@ -6,10 +6,6 @@ public class ShoppingCart {
     private int itemCount = 0;
 
 
-    public ShoppingCart() {
-
-    }
-
     public void addItem(Item item) {
         items[itemCount] = item;
         itemCount++;
