@@ -1,6 +1,6 @@
 package collection.deque.test.stack;
 
-public class BrowserHistory {
+public class BrowserHistoryTest {
 
     public static void main(String[] args) {
         BrowserHistory browser = new BrowserHistory();
